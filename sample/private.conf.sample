@@ -1,0 +1,55 @@
+# Fichier de configuration privé (uniquement présent sur le serveur Cible)
+# Il contient toutes les informations jugées sensibles (mots de passe typiquement) ainsi que le regitre docker cible
+
+CAMUNDA_BPM_ADMIN_USER_ID=********
+CAMUNDA_ADMIN_PASSWORD=********
+CAMUNDA_BPM_USER_RO_ID=********
+CAMUNDA_BPM_USER_RO_PASSWORD=********
+DATA_STORAGE_ACCESS_KEY=********
+DATA_STORAGE_SECRET_KEY=********
+DATA_STORAGE_USER=********
+DATA_STORAGE_PASSWORD=********
+DATA_STORAGE_USER_RO=********
+DATA_STORAGE_PASSWORD_RO=********
+EMS_SIMULATOR_SFTP_USER_NAME=********
+EMS_SIMULATOR_SFTP_USER_PWD=********
+FTP_USER=********
+FTP_PASS=********
+HTTPS_SOCLE_API_USERNAME=********
+HTTPS_SOCLE_API_PASSWORD=********
+HTTPS_SOCLE_PROXY_USERNAME=********
+HTTPS_SOCLE_PROXY_PASSWORD=********
+HTTPS_SOCLE_X_API_KEY=********
+LDAP_RTE_PASSWORD=**********
+ORCHESTRATOR_PG_USER=***********
+ORCHESTRATOR_PG_PASSWORD=***********
+POSTGRES_USER=********
+POSTGRES_PASSWORD=********
+# Only For HA Begin
+ORCHESTRATOR_PG_REPLICATION_USER=******
+ORCHESTRATOR_PG_REPLICATION_PASSWORD=********
+POSTGRES_REPLICATION_USER=******
+POSTGRES_REPLICATION_PASSWORD=********
+# Only For HA End
+RABBITMQ_USER=********
+RABBITMQ_PASSWORD=********
+SFTP_USER=********
+SFTP_PASS=********
+SSL_REFERENCE=********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
